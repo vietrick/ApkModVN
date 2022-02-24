@@ -1,0 +1,2 @@
+# ApkModVN
+ApkModVN template resource
